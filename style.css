@@ -1,0 +1,194 @@
+
+
+body { font-family: 'Lobster', cursive; !important; }
+
+h1 span
+{
+  color: orange; 
+  
+}
+
+h2
+{
+    border-left: 4px solid tomato;
+    padding-left: 5px;
+    font-size: 50px;
+    
+}
+
+.heading
+{
+    color: black;
+    border-bottom: 4px solid orangered;
+}
+
+span
+{
+    color: rgb(243, 91, 74);
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+.intro
+{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+
+.para
+{
+    box-shadow: 5px 7px 40px gray;
+    height: 20%;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    width:30%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    background-color: bisque;
+}
+
+.image
+{
+    width:50%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.image img
+{
+    width: 80%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.section1
+{
+    display: flex;
+    
+}
+
+.link-button
+{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(241, 135, 153),tomato);
+    color: aliceblue;
+    font-weight: 700;
+    background-position: right;
+    margin-top: 5px;
+    
+}
+
+.section3
+{
+    display: flex;
+    
+    
+}
+
+.div1
+{
+    box-shadow: 5px 7px 40px gray;
+    height: 20%;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    width:30%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    background-color: bisque;
+}
+
+.div2
+{
+    box-shadow: 5px 7px 40px gray;
+    height: 20%;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    width:30%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+    background-color: rgb(227, 214, 240);
+}
+
+.div3
+{
+    box-shadow: 5px 7px 40px gray;
+    height: 20%;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    width:30%;
+    float: left;
+    margin-left: 2%;
+    padding-right: 1%;
+    margin-right: 1%;
+    background-color: plum;
+}
+
+.div1 img
+{
+    
+  width: 100px;
+}
+
+.div2 img
+{
+    
+  width: 100px;
+}
+
+.div3 img
+{
+    
+  width: 100px;
+}
+
+.section2
+{
+    display: flex;
+    margin: 50px;
+    
+    padding-top: 10px;
+}
+
+footer
+{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+padding-bottom: 50px;
+}
+
+footer div
+{
+    color: aliceblue;
+    font-size: 15px;
+    
+}
+
+
+
+
+
+.foot-img{
+    float: left;
+    height: 30px;
+    width: 30px;
+    margin-left: 5%;
+}
+#foot-div{
+    margin-left: 41%;
+}
+
+
